@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="org.quickfixj-2.2.0"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-all-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-codegenerator-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-dictgenerator-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-examples-banzai-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-examples-executor-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-examples-ordermatch-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-all-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix40-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix41-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix42-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix43-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix44-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix50-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix50sp1-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fix50sp2-2.2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/quickfixj-messages-fixt11-2.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
